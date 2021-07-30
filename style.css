@@ -1,0 +1,71 @@
+h1 {
+    border: solid rgb(177, 177, 182) 5px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+
+div {
+    font-family: sans-serif;
+    background-color: black;
+    color: wheat;
+    font-size: 35px;
+    padding: 5px;
+}
+
+#navbar {
+    display:flex;
+    justify-content: space-around;
+}
+
+
+.items:hover{
+    background-color: white;
+    opacity:0.5;
+}
+
+a{
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+h2 {
+    text-align: center;
+    border: solid rgb(177, 177, 182) 5px lenght;
+    border-radius: 10px;
+    
+}
+
+br {
+    color: blanchedalmond;
+}
+
+body {
+    background-color: black;
+    color: blanchedalmond;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+  }
+
+.flex-container2 {
+    display: flex;
+    justify-content: center;
+ 
+  }
+
+a {
+    text-align: center;
+}
+  
+  h5 {
+    background-color: black;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
